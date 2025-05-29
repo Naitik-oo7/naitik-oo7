@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashish</h1>
+<h1 align="center">Hi 👋, I'm Naitik</h1>
 <h3 align="center">Full-Stack Developer | React | Node.js | MongoDB</h3>
 
 ---
@@ -6,9 +6,9 @@
 ## 📖 About Me
 - 🔭 I’m currently working on **a Full-Stack Anime Trailer Web App**
 - 🌱 I’m learning **MongoDB, AI Integrations, and Cloud Deployments**
-- 👨‍💻 All of my projects are available at: [GitHub](https://github.com/YourUsername)
+- 👨‍💻 All of my projects are available at: [GitHub](https://github.com/naitik-oo7)
 - 💬 Ask me about **React, JavaScript, Tailwind CSS, and MongoDB**
-- 📫 Reach me at **your.email@example.com**
+- 📫 Reach me at **naitik.koladiya@gmail.com**
 - ⚡ Fun fact: **I love anime, clean UIs, and building cool side projects**
 
 ---
@@ -24,11 +24,11 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="Ashish's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naitik-oo7&show_icons=true&theme=radical" alt="Naitik's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naitik-oo7&theme=radical" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitik-oo7&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
