@@ -4,7 +4,7 @@
 ---
 
 ## 📖 About Me
-- 🔭 I’m currently working on **a Full-Stack Anime Trailer Web App**
+- 🔭 I’m currently working on **a Full-Stack Skill Forge Web App**
 - 🌱 I’m learning **MongoDB, AI Integrations, and Cloud Deployments**
 - 👨‍💻 All of my projects are available at: [GitHub](https://github.com/naitik-oo7)
 - 💬 Ask me about **React, JavaScript, Tailwind CSS, and MongoDB**
