@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naitik</h1>
-<h3 align="center">Full-Stack Developer | React | Node.js | MongoDB</h3>
+<h3 align="center">Full-Stack Developer | React | Node.js | MongoDB | PostgreSQL</h3>
 
 ---
 
